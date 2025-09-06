@@ -24,7 +24,7 @@ body{
 .body{
     height: 85%;
     width: 100%;
-    background-image: url(../images/cima.jpeg);
+    background-image: url(../cima.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -241,4 +241,5 @@ nav button:hover {
     color: rgb(51, 125, 185);
     background-color: rgb(255, 25, 25); 
  }
+
  
