@@ -33,7 +33,7 @@ nav button:hover {
     color: #cbc0c0;
 }
 .head{
-    background-image: url(../images/action3.jpg);
+    background-image: url(../action3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: -22px;
@@ -42,7 +42,7 @@ nav button:hover {
 }
 .back{
     margin-top: -30px;
-    background-image: url(../images/action.jpg);
+    background-image: url(../action.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -79,7 +79,7 @@ nav button:hover {
     margin-top: 0px;
     font-size: 30px;
     color: rgb(29 176 170);
-    background-image: url(../images/action.jpg);
+    background-image: url(../action.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     /* background-color: rgba(0, 0, 0, 0.836); */
@@ -154,4 +154,5 @@ hr{
     box-shadow: 10px 10px 2px black inset;
     color: rgb(51, 125, 185);
     background-color: rgb(255, 25, 25); 
+
  }
